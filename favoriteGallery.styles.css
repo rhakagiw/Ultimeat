@@ -1,0 +1,9 @@
+.overlay {
+    opacity: 0;
+    transition: 1s;
+}
+
+.overlay:hover {
+    opacity: 1;
+    background: rgb(0,0,0,0.6);
+}

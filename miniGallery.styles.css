@@ -1,0 +1,36 @@
+.bg-breakfast{
+    background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)), url(/images/high-stack-pancakes.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    height:20rem;
+}
+.bg-lunch{
+    background:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.3)), url(/images/pizza.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment:fixed;
+    height:20rem;
+}
+.bg-dinner{
+    background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)), url(/images/steak.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    height:20rem;
+}
+
+
+h3,a{
+
+color:#fff;
+
+}
+h3:active,
+h3:hover{
+color:#fff;
+}
+

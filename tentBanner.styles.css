@@ -1,0 +1,49 @@
+
+
+
+
+.background{
+background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.3)),url(/images/tent-banner.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+height:60vh;
+color:#fff;
+text-align:center;
+
+}
+.banner-wrapper{
+padding:150px 0;
+vertical-align: middle;
+}
+
+h1.display-4{
+text-shadow:2px 2px 5px #000;
+font-size:2.3rem;
+font-weight:700;
+}
+
+
+@media(min-width:768px){
+.display-4{
+font-size:3.5rem;
+}
+}
+
+h5,h4,p{
+font-family:'Raleway', Sans-Serif;
+font-weight:200;
+}
+
+h5{
+font-size:1.6rem;
+}
+
+h4{
+font-size:1.8rem;
+
+
+}
+
+h3{
+font-size:2.1rem;
+}

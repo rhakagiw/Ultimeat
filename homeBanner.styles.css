@@ -1,0 +1,79 @@
+
+
+
+
+.backgroundh{
+background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.3)),url(/images/noodles.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+height:80vh;
+color:#fff;
+text-align:center;
+
+}
+.banner-wrapper{
+padding:150px 0;
+vertical-align: middle;
+}
+
+h1.display-4{
+text-shadow:2px 2px 5px #000;
+font-size:2.3rem;
+font-weight:700;
+}
+
+
+@media(min-width:768px){
+.display-4{
+font-size:3.5rem;
+}
+}
+
+h1,h2,h3,h4,h5,h6,p{
+font-weight:200;
+
+}
+
+
+
+h5,h4,p{
+font-family:'Raleway', Sans-Serif;
+
+}
+
+h5{
+font-size:1.6rem;
+}
+
+h4{
+font-size:1.8rem;
+
+
+}
+
+h3{
+font-size:2.1rem;
+}
+
+/*------centering banner text*/
+
+
+
+.btn-green{
+color:#3d5905;
+border: 1px solid #3d5905;
+border-radius:0;
+padding:10px 19px;
+}
+
+.btn-green-white{
+color:#ffffff;
+border: 1px solid #ffffff;
+border-radius:0;
+}
+
+.btn-green-white:hover,
+.btn-green:hover{
+background-color:#6c8c27!important;
+color:#fff;
+}

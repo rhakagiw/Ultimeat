@@ -1,0 +1,28 @@
+.underline{
+ width:55px;
+ border:3px solid #b89f42;
+ margin:auto;
+
+
+}
+.p{
+line-height:1.9em;
+letter-spacing:9rem;
+color:#5A5A5A;
+
+}
+
+
+
+.btn-green{
+color:#3d5905;
+border: 1px solid #3d5905;
+border-radius:0;
+padding:10px 19px;
+}
+
+.btn-green-white{
+color:#ffffff;
+border: 1px solid #ffffff;
+border-radius:0;
+}

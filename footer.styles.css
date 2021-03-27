@@ -1,0 +1,31 @@
+.green{
+background-color:#a4c75a;
+text-align: center;
+}
+
+.footer a:hover{
+color:#fff;
+}
+
+.footer a,
+.footer{
+color:#fff;
+}
+.footer{
+background-color:#a4c75a;
+text-align: center;
+font-family:'Raleway', Sans-Serif;
+
+line-height:1.8rem;
+}
+.footer-title:first-letter{
+font-size:2.0rem;
+color:#3d5905;
+font-family: 'Pacifico', cursive;
+}
+
+.footer-title{
+font-size:1.6rem;
+color:#ffffff;
+
+}

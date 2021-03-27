@@ -1,0 +1,45 @@
+.navbar{
+border-top:2px solid #e1e1e1;
+padding:0px;
+background-color:#6c8c27;
+
+}
+
+.navbar .nav-link.active{
+border-left:#444 3px solid;
+}
+
+.nav-link{
+color:#fff;
+letter-spacing:0.2rem;
+margin-left:3rem;
+}
+
+
+a.nav-link,
+a{
+color:#fff;
+}
+
+a.nav-link:hover{
+background-color:#3d5905;
+}
+
+
+.title{
+background-color:#c2bdab;
+padding:1rem;
+letter-spacing:0.2rem;
+font-family:'Raleway', Sans-Serif;
+font-weight:700;
+text-align:center;
+margin-bottom:0px;
+color:#fff;
+}
+
+.title::first-letter{
+font-size:3.5rem;
+color:#3d5905;
+font-family:'Pacifico', Cursive;
+}
+
